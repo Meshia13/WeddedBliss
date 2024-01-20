@@ -1,0 +1,40 @@
+.background-design {
+    background: rgb(215, 200, 181);
+}
+
+.background-design h1 {
+    font-family: 'Rouge Script', cursive;
+    font-size: 5rem;
+    
+}
+
+.features .btn-outline-dark {
+    border: solid 2px rgb(206, 181, 149);
+}
+
+.features .btn:hover {
+    background-color:  rgb(206, 181, 149);
+    border: solid 2px rgb(206, 181, 149);
+}
+
+.testimonials .container {
+    background: rgb(215, 200, 181);
+}
+
+.card-body {
+    background: rgb(215, 200, 181);
+}
+
+/* Services */
+.services .card-header {
+    background: rgb(206, 181, 149);
+}
+
+.services .btn
+    {
+        border: solid 2px rgb(115, 115, 114);
+    }
+.services .btn:hover {
+    background-color:  rgb(206, 181, 149);
+    border: solid 2px rgb(206, 181, 149);
+}
